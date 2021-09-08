@@ -19,6 +19,5 @@ while not valid:
             print()
 
     except ValueError:
-        print(error)
-
-
+          print(error)
+        
