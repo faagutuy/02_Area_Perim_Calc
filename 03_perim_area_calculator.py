@@ -29,7 +29,9 @@ def num_check(question):
 # Main Routine goes here
 width = num_check("Width: ")
 height = num_check("Height: ")
-print(width)
+
+# Calculate area (width x height)
+area = width * height
 
 
 
