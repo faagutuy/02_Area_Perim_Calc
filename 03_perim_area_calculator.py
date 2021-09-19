@@ -33,5 +33,9 @@ height = num_check("Height: ")
 # Calculate area (width x height)
 area = width * height
 
+# Calculate perimeter (width + height) x 2
+perimeter = 2 * (width + height)
 
-
+# Output area and perimeter
+print("Perimeter: {} units".format(perimeter))
+print("Area: {} square units". format(area))
