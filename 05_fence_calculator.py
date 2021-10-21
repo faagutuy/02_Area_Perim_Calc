@@ -42,9 +42,6 @@ while keep_going == "":
     height = num_check ("Height: ")
     cost_per_m = num_check ("Cost per meter: ")
 
-    # call your number checker function three times to get the 
-    # width, length and cost_per_m of the fencing
-
     # Calulate perimeter (width + height) x 2
     perimeter = 2 * (width + height)
 
