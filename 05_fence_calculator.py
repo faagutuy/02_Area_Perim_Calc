@@ -52,7 +52,7 @@ while keep_going == "":
 
     # Output the perimeter and cost of the fencing
     print("Perimeter: {} units".format(perimeter))
-    print("Fencing: {} square units". format(cost_per_m))
+    print("Fencing: {} square units". format())
     print ()
     
     keep_going = input("Press <enter> to keep going or any key to quit")
