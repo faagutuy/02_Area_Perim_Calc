@@ -37,7 +37,6 @@ print()
 keep_going = ""
 while keep_going == "":
 
-    print("replace me with input statements")
     width = num_check("Wdith: ")
     height = num_check ("Height: ")
     cost_per_m = num_check ("Cost per meter: ")
