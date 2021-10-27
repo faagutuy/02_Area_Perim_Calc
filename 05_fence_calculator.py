@@ -39,7 +39,7 @@ while keep_going == "":
 
     width = num_check("Wdith: ")
     length = num_check ("Height: ")
-    cost_per_m = num_check ("Cost per meter: ")
+    cost_per_m = num_check ("Cost per meter: $")
 
     # call your number checker function three times to get the 
     # width, length and cost_per_m of the fencing
